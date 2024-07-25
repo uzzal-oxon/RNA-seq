@@ -50,4 +50,4 @@ This repository contains a command-line pipeline for analyzing RNA sequencing (R
 </pre>
 
 ## Copyright
-© [2024] Bioinformatics Division of the National Institute of Biotechnology. All rights reserved.
+© [2024] Mohammad Uzzal Hossain. All rights reserved.
